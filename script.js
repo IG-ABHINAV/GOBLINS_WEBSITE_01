@@ -10,6 +10,7 @@ menu.onclick = function(){
     menu.classList.toogle('bx-x');
     navlist.classList.toogle('open');
 };
+//debugged2!
 
 const sr = ScrollReveal ({
     distance: '65px',
